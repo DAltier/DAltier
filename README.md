@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 I am a Full Stack Developer
-- 💻 Software Engineer @ <a href="https://radius.ai/">RadiusAI</a>.
+- 💻 Software Engineer
 - 📍 Based in Bellevue, WA.
 - 🔭 I’m currently working on a Twitter Clone.
 - 🌱 I’m currently learning Android Development.
