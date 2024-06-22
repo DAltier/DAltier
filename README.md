@@ -15,11 +15,10 @@ You can use the website to generate badges: https://shields.io/
 I am a Full Stack Developer
 - 💻 Software Engineer
 - 📍 Based in Bellevue, WA.
-- 🔭 I’m currently working on a Twitter Clone.
+- 🔭 I’m currently working on adding projects to my portfolio.
 - 🌱 I’m currently learning Android Development.
 - 🤔 Used daily: `.js`,` .html`, `.css`, `.py`
 - ❤️ I love [reading](https://www.goodreads.com/user/show/108000808-dana-altier) and [gaming](https://account.xbox.com/en-us/Profile?xr=socialtwistnav).
-- 🗨️ Ask me about anything, I am happy to help.
 
 &nbsp;
 
