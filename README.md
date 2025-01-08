@@ -90,7 +90,7 @@ I am a Full Stack Developer
 </p>
 
 <p align="center">
-  ![Dana's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daltier&theme=rogue)
+  <a href="#"><img alt="Dana's Github Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=daltier&theme=rogue"></a>
  </p>
 
  <div align=center>
