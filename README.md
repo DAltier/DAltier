@@ -90,9 +90,7 @@ I am a Full Stack Developer
 </p>
 
 <p align="center">
-  <a href="#">
-    <img alt="Dana's streak" src="https://streak-stats.demolab.com/?user=daltier&theme=dracula&hide_border=true&background=000000EE"/>
-  </a>
+  ![Dana's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daltier&theme=rogue)
  </p>
 
  <div align=center>
