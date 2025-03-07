@@ -1,114 +1,38 @@
-<!-- Your title -->
-## Hello, I'm Dana Altier!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dana Altier
+===================================================================================================================================
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+Full Stack Developer
+--------------------
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://danaaltier.dev/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DAltier)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danaaltier/)
+As a software engineer with over 5 years of experience and a Global Top 20 Female Xbox Gamer, I specialize in crafting gamified experiences that drive engagement, boost retention, and inspire positive change. My focus is on building features for a menopause app designed to transform how individuals navigate hormonal shifts—turning a potentially challenging journey into an empowering and supportive experience.
 
-&nbsp;
+* 🌍  I'm based in Bellevue, WA
+* 🖥️  See my portfolio at [danaaltier.dev](https://danaaltier.dev/)
+* ✉️  You can contact me at [altierdana@gmail.com](mailto:altierdana@gmail.com)
+* 🚀  I'm currently working on [ZTM JS Projects](https://danaaltier.dev/ZTMJSProjects/)
+* 🧠  I'm learning Flutter
+* 🤝  I'm open to collaborating on new, fun projects
+
+### Skills
 
 
-I am a Full Stack Developer
-- 💻 Software Engineer
-- 📍 Based in Bellevue, WA.
-- 🔭 I’m currently working on adding projects to my portfolio.
-- 🌱 I’m currently learning Android Development.
-- 🤔 Used daily: `.js`,` .html`, `.css`, `.py`
-- ❤️ I love [reading](https://www.goodreads.com/user/show/108000808-dana-altier) and [gaming](https://account.xbox.com/en-us/Profile?xr=socialtwistnav).
-
-&nbsp;
-
-<h1 align="center">
-  Tech Stack
-</h1>
-
-&nbsp;
-
-<p align="center"> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Web Services" title="Amazon Web Services"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="Amazon ECS" title="Amazon ECS"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="Amazon EKS" title="Amazon EKS"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" alt="Auth0" title="Auth0"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" title="Microsoft Azure"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" title="Bootstrap"></code>
-</p>
-<p align="center"> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" title="Cloudflare"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" title="CSS3"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" title="Django"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask"></code>
-</p>
-<p align="center"> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-icon.svg" alt="Font Awesome" title="Font Awesome"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" title="Github"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" title="HTML5"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" title="JavaScript"></code>
-</p>
-<p align="center"> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" title="jQuery"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" title="JSON"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" title="MariaDB"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL"></code>
-</p>
-<p align="center"> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" title="NodeJS"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" title="npm"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" title="PostgreSQL"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" alt="Pug" title="Pug"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React"></code>
-</p>
-<p align="center"> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Framework" title="Spring Framework"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" title="Visual Studio Code"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" title="WordPress"></code>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-&nbsp;
 
-<h1 align="center">
-  GitHub Stats
-</h1>
+### Socials
 
-&nbsp;
+<p align="left"> <a href="https://www.github.com/DAltier" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/danaaltier/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="center">
-  <a href="#"><img alt="Dana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daltier&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
-  <a href="#"><img alt="Dana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=daltier&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-</p>
+### Badges
 
-<p align="center">
-  <a href="#"><img alt="Dana's Github Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=daltier&theme=rogue"></a>
- </p>
+<b>My GitHub Stats</b>
 
- <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=daltier&theme=onedark&column=8" alt="profile-trophy" />
-    </a>
-</div>
-<!--
-**DAltier/DAltier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://www.github.com/DAltier"><img src="https://github-readme-stats.vercel.app/api?username=DAltier&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DAltier's GitHub stats" /></a>
 
-Here are some ideas to get you started:
+<a href="http://www.github.com/DAltier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DAltier&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="http://www.github.com/DAltier"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DAltier&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/DAltier" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAltier&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
