@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a full stack developer specializing in Python, Django, React, PostgreSQL, AWS, Docker. My currently interests include NextJS and Celery. I have 5 years of experience in the industry and I have built applications for the retail and medical industries.
-
-As a software engineer and a Global Top 20 Female Xbox Gamer, I specialize in crafting gamified experiences that drive engagement, boost retention, and inspire positive change. My focus is on building features for a menopause app designed to transform how individuals navigate hormonal shifts—turning a potentially challenging journey into an empowering and supportive experience.
+I'm a full-stack developer (and Global Top 20 Female Xbox Gamer 🎮) with 5 years of experience specializing in Python, Django, React, PostgreSQL, AWS, and Docker. I’m passionate about crafting gamified digital experiences that drive engagement, boost retention, and inspire positive change. Currently, I’m focused on building features for a menopause health app—transforming the way individuals navigate hormonal shifts by delivering supportive, empowering experiences. My recent interests include Next.js and Celery as I deepen my work in asynchronous backend development and modern frontend architecture.
 
 By combining technical expertise with user-centered design, I’ve developed interactive solutions that not only engage users, but also foster a sense of community and achievement. Whether it’s through personalized challenges, progress tracking, or thoughtful rewards, my work is all about creating meaningful digital experiences that resonate deeply with users.
 
@@ -16,6 +14,7 @@ What I bring to the table:
 ✔ Collaborative teamwork with cross-functional teams to deliver features that exceed user expectations.
 
 I thrive in environments where creativity meets purpose and where technology can make a lasting difference in people’s lives. Let’s connect to talk about health tech, gamification, or how we can build engaging solutions together! 🌟
+
 * 🌍  I'm based in Bellevue, WA
 * 🖥️  See my portfolio at [danaaltier.dev](https://danaaltier.dev/)
 * ✉️  You can contact me at [altierdana@gmail.com](mailto:altierdana@gmail.com)
