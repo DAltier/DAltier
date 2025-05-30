@@ -9,8 +9,11 @@ I'm a full-stack developer (and Global Top 20 Female Xbox Gamer 🎮) with 5 yea
 By combining technical expertise with user-centered design, I’ve developed interactive solutions that not only engage users, but also foster a sense of community and achievement. Whether it’s through personalized challenges, progress tracking, or thoughtful rewards, my work is all about creating meaningful digital experiences that resonate deeply with users.
 
 What I bring to the table:
+
 ✔ Expertise in gamification strategies that turn everyday activities into exciting, rewarding experiences.
+
 ✔ A passion for developing impactful health tech solutions that make lives better.
+
 ✔ Collaborative teamwork with cross-functional teams to deliver features that exceed user expectations.
 
 I thrive in environments where creativity meets purpose and where technology can make a lasting difference in people’s lives. Let’s connect to talk about health tech, gamification, or how we can build engaging solutions together! 🌟
